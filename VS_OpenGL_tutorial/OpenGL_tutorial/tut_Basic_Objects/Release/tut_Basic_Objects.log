@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(215,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(237,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(238,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(239,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(242,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(243,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(244,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(247,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(248,21): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(249,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(252,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(253,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(254,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(257,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(258,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\denre\OneDrive\Документы\VS_OpenGL_tutorial\OpenGL_tutorial\tut_Basic_Objects\main.cpp(259,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+LINK : fatal error LNK1104: не удается открыть файл "freeglut.lib"
